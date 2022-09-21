@@ -1,4 +1,3 @@
-package exercise_week_2;
 
 import java.util.Scanner;
 
@@ -14,7 +13,7 @@ public class ReadingUserInput {
 		
 		Integer convertedInput = Integer.parseInt(numberInput);
 		
-		/* Either or works
+		/* Either if statement works
 		if(convertedInput >= 50) {
 			
 			if(convertedInput <= 300) {
@@ -33,8 +32,6 @@ public class ReadingUserInput {
 		} else {
 			System.out.println("No");
 		}
-		
-		
 	}
 
 }
